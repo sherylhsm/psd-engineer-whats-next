@@ -6,7 +6,7 @@ breadcrumb: CPF
 ---
 
 
-<img src="/images/cpf-logo.png" alt="cpf" style="width:200px;height:200px;" align="left">
+<img src="/images/cpf-logo.png" alt="cpf" style="width:200px;height:179px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
